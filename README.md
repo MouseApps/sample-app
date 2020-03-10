@@ -60,7 +60,7 @@ User Guide: http://docs.aws.amazon.com/codestar/latest/userguide/welcome.html
 Forum: https://forums.aws.amazon.com/forum.jspa?forumID=248
 
 What Should I Do Before Running My Project in Production?
-------------------
+------------------ 
 
 AWS recommends you review the security best practices recommended by the framework
 author of your selected sample application before running it in production. You
